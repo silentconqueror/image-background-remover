@@ -1,0 +1,11 @@
+touch .gitignore
+git config --global  user.name <name of user>
+git config --global  user.email <email.id>
+git init
+git add .
+git commit -m "Initial commit"
+git status
+generate ssh key
+add in git 
+git remote add origin <url project>
+git push origin main
